@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/halbierungsmethode/static/css/main.1baee060.css",
+    "main.js": "/halbierungsmethode/static/js/main.72b40800.js",
+    "index.html": "/halbierungsmethode/index.html",
+    "main.1baee060.css.map": "/halbierungsmethode/static/css/main.1baee060.css.map",
+    "main.72b40800.js.map": "/halbierungsmethode/static/js/main.72b40800.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1baee060.css",
+    "static/js/main.72b40800.js"
+  ]
+}
